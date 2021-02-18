@@ -1,7 +1,11 @@
 Covid-19 Case Study
 ==============================
 
-A short description of the project.
+<b> Usage and prerequisites </b>
+    <ul>
+        <li> Need a MacOS installation with python3 with pip and a anaconda installation to run jupyter notebooks</li>
+        <li> Use make_dataset.py for required dataset creation</li>
+        <li> To run the exploratory data analysis, use anaconda with jupyter notebook. Make sure to pip install required imports.
 
 Project Organization
 ------------
@@ -55,3 +59,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+```python
+
+```
